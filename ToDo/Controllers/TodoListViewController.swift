@@ -50,7 +50,7 @@ class TodoListViewController: SwipeTableViewController {
     override func viewWillDisappear(_ animated: Bool) {
         
        updateNavBar(withHexCode: "1D9BF6")
-        
+           
     }
     
 
